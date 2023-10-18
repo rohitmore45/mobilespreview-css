@@ -1,0 +1,31 @@
+.container{
+       display: flex;
+       justify-content: space-around;
+       text-align: center;
+}
+.flex-item{
+     box-shadow:2px 2px 10px black ;
+     border-radius: 15px;
+     padding: 5px;
+     /* width: 230px; */
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+.offer{
+     background-color: red;
+     color: white;
+     width: 50px;
+     font-size: 20px;
+     margin: auto;
+}
+h3{
+    font-size: 25px;
+
+}
+.price{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
